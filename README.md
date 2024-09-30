@@ -1,4 +1,4 @@
-Stack using Vectors in C++ 
+# Stack using Vectors in C++ #
 
 This program allows you to check and manipulate a stack using vectors in C++. This allows for user inputs when you create the stack. This stack has the 
 following features. 
