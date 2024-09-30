@@ -8,7 +8,9 @@ following features.
 - Calculate the average of the values that are in the stack
 - Display the stack 
 
-# The following program requires no other files or input for implementation. All is data is added locaclly by the user. # 
+# Functions #
+
+The following program requires no other files or input for implementation. All is data is added locaclly by the user. 
 
 
 The program performs the following functions in the proceeding order: 
@@ -19,3 +21,4 @@ The program performs the following functions in the proceeding order:
 - Then it will find and print the top of the stack
 - Finally the program will find and print the average of the integers that are found in the stack.
 
+![1](https://github.com/user-attachments/assets/3585772f-5aa4-45e3-bad8-b803dcb39410)
